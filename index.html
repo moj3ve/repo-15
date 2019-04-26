@@ -1,54 +1,202 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>mac-user669's repo</title>
+  <title>Bootstrap Example</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
 
+	<style>
 
+	body {
+		color: #bf0000;
+		background-color: #393939;
+	}
+
+
+	.p {
+		color: #bf0000
+	}
+	.card {
+		background-color: #494949;
+
+	}
+.btn-outline-danger {
+	border: 2px solid #bf0000;
+	color: #bf0000;
+}
+
+
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background-color: #393939;
+    border: 1px solid #bf0000;
+    border-radius: 0.75rem;
+}
+
+.card-block {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.card-title {
+    margin-bottom: 0.75rem;
+}
+
+.card-subtitle {
+    margin-top: -0.375rem;
+    margin-bottom: 0;
+}
+
+.card-text:last-child {
+    margin-bottom: 0;
+}
+.card-link {
+	color: #bf0000
+}
+
+	</style>
+
+
+<!-- Jumbotron -->
+<div class="jumbotron" style="background-color: #494949;">
   <div class="container">
-  	<h2><img src="CydiaIcon.png" class="img-rounded"?></h2>
-    <h2 class="text-primary">mac-user669</h2>
+    <h1>mac-user669's Repo</h1>
+    <p>This is mac-user669's official repo.</p>
+		<a class="btn btn-sm btn-outline-danger" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mac-user669.github.io/repo">Add to Cydia</a>
+		<a class="btn btn-sm btn-outline-danger" href="https://github.com/mac-user669/repo">View on GitHub</a>
   </div>
+</div>
 
-  <div class="container">
-    <div class="panel panel-primary">
-      <div class="panel-heading">mac-user669's Cydia Repository</div>
-      <div class="panel-body text-primary">mac-user669's Cydia Repository
-      <br /><br />
-      <a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mac-user669.github.io/repo">Add to Cydia</a>
-      <a class="btn btn-sm btn-primary" href="https://github.com/mac-user669/repo">View on GitHub</a>
-      </div>
-    </div>
-  </div>
-
+<!-- Cards -->
 <div class="container">
-  <h2 id="wells" class="page-header text-primary">Featured Packages</h2>
+	<div class="card-columns">
+		<div class="card text-center" style="width: 15rem; border: 1px solid #bf0000;">
+			<div class="card-body">
+				<h5 class="card-title">LimelightRed</h5>
+				<p class="card-text">Limelight, but red.</p>
+			</div>
+			<div class="card-body">
+				<a href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightred" class="card-link">More Info</a>
+			</div>
+		</div>
+
+		<div class="card text-center" style="width: 15rem; border: 1px solid #000000;">
+			<div class="card-body">
+				<h5 class="card-title" style="color: #000000">LimelightBlack</h5>
+				<p class="card-text"  style="color: #000000">Limelight, but black.</p>
+			</div>
+			<div class="card-body">
+				<a href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightblack" class="card-link"  style="color: #000000">More Info</a>
+			</div>
+		</div>
+
+		<div class="card text-center" style="width: 15rem; border: 1px solid #00ff00;">
+			<div class="card-body">
+				<h5 class="card-title" style="color: #00ff00">LimelightGreen</h5>
+				<p class="card-text"  style="color: #00ff00">Limelight, but green.</p>
+			</div>
+			<div class="card-body">
+				<a href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightgreen" class="card-link"  style="color: #00ff00">More Info</a>
+			</div>
+		</div>
+
+		<div class="card text-center" style="width: 15rem; border: 1px solid #0d59db;">
+			<div class="card-body" style="color: #0d59db">
+				<h5 class="card-title">LimelightBlue</h5>
+				<p class="card-text">Limelight, but blue.</p>
+			</div>
+			<div class="card-body">
+				<a href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightblue" class="card-link"  style="color: #0d59db">More Info</a>
+			</div>
+		</div>
+
+		<div class="card text-center" style="width: 15rem; border: 1px solid #ff69b4;">
+			<div class="card-body" style="color: #ff69b4">
+				<h5 class="card-title">LimelightPink</h5>
+				<p class="card-text">Limelight, but pink.</p>
+			</div>
+			<div class="card-body">
+				<a href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightpink" class="card-link"  style="color: #ff69b4">More Info</a>
+			</div>
+		</div>
+
+		<div class="card text-center" style="width: 15rem; border: 1px solid #ffff00;">
+			<div class="card-body" style="color: #ffff00">
+				<h5 class="card-title">LimelightYellow</h5>
+				<p class="card-text">Limelight, but yellow.</p>
+			</div>
+			<div class="card-body">
+				<a href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightyellow" class="card-link"  style="color: #ffff00">More Info</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+</body>
+</html>
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>mac-user669's repo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<style>
+body {
+	background-color: #191919;
+}
+
+</style>
+<div clas
+class="jumbotron jumbotron-fluid" style="background-color: #191919; padding: 0.005em 5em;>
+  <div class="container">
+    <h1> </h1>
+    <p> </p>
+  </div>
 </div>
 
 <div class="container">
-	<div class="panel panel-primary">
-	  <div class="panel-heading">LimelightRed</div>
-	  <div class="panel-body text-primary">
-		Limelight, but Red!
-    <br /><br />
-    <a class="btn btn-sm btn-primary" href="depictions/?p=com.cooper.limelightred">More Info</a>
+    <div class="jumbotron text-white" style="background-color: #292929;" padding: 1em 1em;>
+        <h1>mac-user669's repo</h1>
+				<p>This is mac-user669's repo! </p>
+    </div>
+</div>
 
-	  </div>
-	</div>
-
-	<div class="panel panel-primary">
-	  <div class="panel-heading">LimelightBlack</div>
-	  <div class="panel-body text-primary">
-		Limelight, but Black!<br /><br />
-		<a class="btn btn-sm btn-primary" href="depictions/?p=com.cooper.limelightblack">More Info</a>
-	  </div>
-	</div>
+<div class="container">
+	<button type="button" class="btn btn-light" href="https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightblack">LimelightBlack</button>
 </div>
 
 </body>
 </html>
+-->
