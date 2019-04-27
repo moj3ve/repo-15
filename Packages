@@ -70,8 +70,7 @@ SHA256: 6571d9516cd412ef35629ba64e31779f27adc19f61191b3958a5ca085ed2365b
 Section: LimelightColor
 Description: Limelight, but Purple!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightpurple
-Name: LimelightPurple
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/Name: LimelightPurple
 
 Package: com.cooper.limelightred
 Version: 1.1
