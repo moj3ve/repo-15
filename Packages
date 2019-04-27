@@ -84,7 +84,7 @@ SHA256: 1650d4b46505fa9c46f2c4b1f2e2e0903e8946fc9c917a39631465cbe0aeaa1a
 Section: LimelightColor
 Description: Limelight, but Red!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightred
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/
 Name: LimelightRed
 
 Package: com.cooper.limelightyellow
