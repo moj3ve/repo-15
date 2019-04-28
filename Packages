@@ -10,7 +10,7 @@ SHA256: b89341e116a6ef88d0d8a1f2017597ce1d5f4065f82b9ca1a9177fbe7d3fab62
 Section: LimelightColor
 Description: Limelight, but Black!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightblack
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlack/
 Name: LimelightBlack
 
 Package: com.cooper.limelightblue
@@ -25,7 +25,7 @@ SHA256: e38907d70fda305aff9beb060673437bf1763ba82f598b0d8987dc1a1426bc30
 Section: LimelightColor
 Description: Limelight, but Blue!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightblue
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlue/
 Name: LimelightBlue
 
 Package: com.cooper.limelightgreen
@@ -40,7 +40,7 @@ SHA256: 8ee207fb39b6560689e882b461dd6c50fb2277d99a0153ead30230ffef2aa39f
 Section: LimelightColor
 Description: Limelight, but Green!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightgreen
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightGreen/
 Name: LimelightGreen
 
 Package: com.cooper.limelightpink
@@ -55,7 +55,7 @@ SHA256: 0764d7b4d14cd13efe8de18fa905a3675ebe1ccb99f2cc86c3d9f503f32ac6d7
 Section: LimelightColor
 Description: Limelight, but Pink!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightpink
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightPink/
 Name: LimelightPink
 
 Package: com.cooper.limelightpurple
@@ -70,7 +70,8 @@ SHA256: 6571d9516cd412ef35629ba64e31779f27adc19f61191b3958a5ca085ed2365b
 Section: LimelightColor
 Description: Limelight, but Purple!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/Name: LimelightPurple
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightPurple/
+Name: LimelightPurple
 
 Package: com.cooper.limelightred
 Version: 1.1
@@ -99,7 +100,7 @@ SHA256: ead652902cf1b6a43b01d2c3fb1ba2b94f2076ca78be0943f5d8da4e883c559f
 Section: LimelightColor
 Description: Limelight, but Yellow!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limelightyellow
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightYellow/
 Name: LimelightYellow
 
 Package: com.cooper.limewindows
@@ -114,6 +115,6 @@ SHA256: 21976e8c47585e3b5575981c6fc300ad6caf9b5430351c54c31666885b4260e1
 Section: Themes
 Description: White glyphs, with a Windows 10 feel
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/depictions/?p=com.cooper.limewindows
+Depiction: https://mac-user669.github.io/repo/depictions/LimeWindows/
 Name: LimeWindows
 
