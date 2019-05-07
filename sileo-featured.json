@@ -8,12 +8,6 @@
         "title": "LimelightRed",
         "package": "com.cooper.limelightred",
         "hideShadow": false
-    },
-    {
-        "url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-        "title": "LimelightBlack",
-        "package": "com.cooper.limelightblack",
-        "hideShadow": false
     }
   ]
 }
