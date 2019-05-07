@@ -1,0 +1,23 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://github.com/mac-user669/repo/raw/master/Images/LimelightBlack.png",
+    "tabs": [{
+        "tabname": "Details",
+        "views": [
+            {
+                "markdown": "## LimelightBlack\nLimelight, Blackened",
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "itemCornerRadius": 9,
+                "itemSize": "{187.5, 406}",
+                "screenshots": [{
+                    "fullSizeURL": "https://github.com/mac-user669/repo/raw/master/Images/LimelightBlack.png",
+                    "accessibilityText": "Screenshot",
+                    "url": "https://github.com/mac-user669/repo/raw/master/Images/LimelightBlack.png"
+                }]
+            }
+        ]
+    }],
+    "tintColor": "#000000"
+}
