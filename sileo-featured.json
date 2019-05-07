@@ -15,5 +15,11 @@
         "package": "com.cooper.limelightred",
         "hideShadow": false
     }
+    {
+        "url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/Darkify.png",
+        "title": "Darkify",
+        "package": "com.struggling.darkify",
+        "hideShadow": false
+    }
   ]
 }
