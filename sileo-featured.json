@@ -2,54 +2,25 @@
   "class":"FeaturedBannersView",
   "itemSize":"{263, 148}",
   "itemCornerRadius":10,
-  "banners": [
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-      "title":"LimelightBlack",
-      "package":"com.cooper.limelightblack",
-      "hideShadow":false
-    },
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlue.png",
-      "title":"LimelightBlue",
-      "package":"com.cooper.limelightblue",
-      "hideShadow":false
-    },
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
-      "title":"LimelightGreen",
-      "package":"com.cooper.limelightgreen",
-      "hideShadow":false
-    },
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightPink.png",
-      "title":"LimelightPink",
-      "package":"com.cooper.limelightpink",
-      "hideShadow":false
-    },
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightPurple.png",
-      "title":"LimelightPurple",
-      "package":"com.cooper.limelightpurple",
-      "hideShadow":false
-    },
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
-      "title":"LimelightRed",
-      "package":"com.cooper.limelightred",
-      "hideShadow":false
-    },
-    {
-      "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightYellow.png",
-      "title":"LimelightYellow",
-      "package":"com.cooper.limelightyellow",
-      "hideShadow":false
+  "banners":
+   [
+      {
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
+        "title":"LimelightBlack",
+        "package":"com.cooper.limelightblack",
+        "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimeWindows.png",
-        "title":"LimeWindows",
-        "package":"com.cooper.limewindows",
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
+        "title":"LimelightGreen",
+        "package":"com.cooper.limelightgreen",
         "hideShadow":false
-      }
-        ]
+      },
+      {
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
+        "title":"LimelightRed",
+        "package":"com.cooper.limelightred",
+        "hideShadow":false
+      },
+    ]
 }
