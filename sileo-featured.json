@@ -17,12 +17,6 @@
         "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/BokehSpace.png",
-        "title":"BokehSpace",
-        "package":"com.cooper.bokehspace",
-        "hideShadow":false
-      },
-      {
         "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
         "title":"LimelightRed",
         "package":"com.cooper.limelightred",
