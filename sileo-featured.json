@@ -4,6 +4,12 @@
   "itemCornerRadius":10,
   "banners":
    [
+     {
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
+       "title":"LimelightRed",
+       "package":"com.cooper.limelightred",
+       "hideShadow":false
+      },
       {
         "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
         "title":"LimelightBlack",
@@ -17,9 +23,9 @@
         "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
-        "title":"LimelightRed",
-        "package":"com.cooper.limelightred",
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/BokehSpace.png",
+        "title":"BokehSpace",
+        "package":"com.cooper.bokehspace",
         "hideShadow":false
       }
     ]
