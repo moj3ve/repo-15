@@ -1,11 +1,25 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightPink.png",
-	"tintColor": "#ff69b4",
+	"tintColor": "#000000",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## LimelightPink\nLimelight recolored to Pink. I used the files from [here](https://github.com/ramenrepo/limelight) and recolored with [these](https://github.com/ramenrepo/icon_colorizer) tools. Thanks to Ty for letting me host these!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Support\nNeed help? Just email me!"
+				},
+				{
+					"title": "Suggest icons here!",
+					"action": "https://forms.gle/JdcGRVRvnyEcabMH6",
+					"class": "DepictionTableButtonView"
+				},
 				{
 					"itemCornerRadius": 6,
 					"itemSize": "{320, 275.41333333333336}",
@@ -31,19 +45,6 @@
 					"class": "DepictionScreenshotsView"
 				},
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## LimelightPink\nLimelight recolored to pink. I used the files from [here](https://github.com/ramenrepo/limelight) and recolored with [these](https://github.com/ramenrepo/icon_colorizer) tools. Thanks to Ty for letting me host these!"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Support\nWant to chat? I'm @mac_user669 on Twitter! Just toss me a DM or tag me!"
-				},
-				{
-					"title": "Suggest icons here!",
-					"action": "https://forms.gle/XmjLYCN694wrQFzZA",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"class": "DepictionSeparatorView"
 				},
 				{
@@ -56,11 +57,6 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "5/7/19",
-					"class": "DepictionTableTextView"
-				},
-				{
 					"title": "Price",
 					"text": "Free",
 					"class": "DepictionTableTextView"
@@ -69,6 +65,11 @@
 					"title": "Developer",
 					"text": "mac-user669",
 					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto://cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Github",

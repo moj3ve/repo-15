@@ -13,7 +13,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Support\nNeed help? Just email me or DM me!"
+					"markdown": "## Support\nNeed help? Just email me!"
 				},
 				{
 					"title": "Suggest icons here!",
@@ -57,11 +57,6 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "5/7/19",
-					"class": "DepictionTableTextView"
-				},
-				{
 					"title": "Price",
 					"text": "Free",
 					"class": "DepictionTableTextView"
@@ -70,6 +65,11 @@
 					"title": "Developer",
 					"text": "mac-user669",
 					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto://cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Github",
