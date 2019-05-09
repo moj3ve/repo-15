@@ -6,6 +6,20 @@
 		{
 			"tabname": "Details",
 			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## LimelightBlack\nLimelight recolored to black. I used the files from [here](https://github.com/ramenrepo/limelight) and recolored with [these](https://github.com/ramenrepo/icon_colorizer) tools. Thanks to Ty for letting me host these!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Support\nNeed help? Just email me or DM me!"
+				},
+				{
+					"title": "Suggest icons here!",
+					"action": "https://forms.gle/JdcGRVRvnyEcabMH6",
+					"class": "DepictionTableButtonView"
+				},
 				{
 					"itemCornerRadius": 6,
 					"itemSize": "{320, 275.41333333333336}",
@@ -29,19 +43,6 @@
 						"class": "DepictionScreenshotView"
 					},
 					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## LimelightBlack\nLimelight recolored to black. I used the files from [here](https://github.com/ramenrepo/limelight) and recolored with [these](https://github.com/ramenrepo/icon_colorizer) tools. Thanks to Ty for letting me host these!"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Support\nWant to chat? I'm @mac_user669 on Twitter! Just toss me a DM or tag me!"
-				},
-				{
-					"title": "Suggest icons here!",
-					"action": "https://forms.gle/JdcGRVRvnyEcabMH6",
-					"class": "DepictionTableButtonView"
 				},
 				{
 					"class": "DepictionSeparatorView"
