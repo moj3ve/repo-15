@@ -11,6 +11,18 @@
        "hideShadow":false
       },
       {
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
+        "title":"LimelightGreen",
+        "package":"com.cooper.limelightgreen",
+        "hideShadow":false
+      },
+      {
+         "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlue.png",
+         "title":"LimelightBlue",
+         "package":"com.cooper.limelightblue",
+         "hideShadow":false
+      },
+      {
         "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimeWindows.png",
         "title":"LimeWindows",
         "package":"com.cooper.limewindows",

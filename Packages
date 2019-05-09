@@ -10,7 +10,7 @@ SHA256: e92eeae1a9d68d667cac285437d2f4f088782e7784ae15964848b7cdf624441f
 Section: LimelightColor
 Description: Limelight, but Black!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlack/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlack.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlack/
 Name: LimelightBlack
 
@@ -26,7 +26,7 @@ SHA256: 94f45d4b8485694dca516dfc0a83ba7a1d9681c607f39446089b1e51785a1d9c
 Section: LimelightColor
 Description: Limelight, but Blue!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlue/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlue.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlue/
 Name: LimelightBlue
 
@@ -42,7 +42,7 @@ SHA256: 884c0eca1b6f47fe1eef6c9388390e876a804412951e79218a8fb571fa163f2e
 Section: LimelightColor
 Description: Limelight, but Green!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightGreen/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightGreen.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightGreen/
 Name: LimelightGreen
 
@@ -58,7 +58,7 @@ SHA256: c010de5c346b256917224ccc12537580e27efed6c9aee10078724581a6f6f77e
 Section: LimelightColor
 Description: Limelight, but Pink!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPink/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPink.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightPink/
 Name: LimelightPink
 
@@ -74,7 +74,7 @@ SHA256: 8916c2f5537b59c1fd3fa1d5eda9ccc8370db9685fc3983708345c47979cc28c
 Section: LimelightColor
 Description: Limelight, but Purple!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPurple/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPurple.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightPurple/
 Name: LimelightPurple
 
@@ -90,7 +90,7 @@ SHA256: 1170235a33b145bf418e55495d01a21f15acb8ad00947f65ad8c2cd5b883956d
 Section: LimelightColor
 Description: Limelight, but Red!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/
 Name: LimelightRed
 
@@ -106,7 +106,7 @@ SHA256: 37f3cee782a1bf2f496bda202bbd641fc2a0108cd4ea33efafa47ab116215743
 Section: LimelightColor
 Description: Limelight, but Yellow!
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightYellow/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightYellow.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightYellow/
 Name: LimelightYellow
 
@@ -122,6 +122,6 @@ SHA256: 21976e8c47585e3b5575981c6fc300ad6caf9b5430351c54c31666885b4260e1
 Section: Themes
 Description: White glyphs, with a Windows 10 feel
 Author: Cooper Hull <cooper@cooperhull.com>
-SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimeWindows/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimeWindows.json
 Depiction: https://mac-user669.github.io/repo/depictions/LimeWindows/
 Name: LimeWindows
