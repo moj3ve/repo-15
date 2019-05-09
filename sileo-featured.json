@@ -11,21 +11,9 @@
        "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-        "title":"LimelightBlack",
-        "package":"com.cooper.limelightblack",
-        "hideShadow":false
-      },
-      {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
-        "title":"LimelightGreen",
-        "package":"com.cooper.limelightgreen",
-        "hideShadow":false
-      },
-      {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/BokehSpace.png",
-        "title":"BokehSpace",
-        "package":"com.cooper.bokehspace",
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightWindows.png",
+        "title":"LimeWindows",
+        "package":"com.cooper.limewindows",
         "hideShadow":false
       }
     ]
