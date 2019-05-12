@@ -86,6 +86,17 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 arm64e Support!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,

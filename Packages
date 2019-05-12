@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Cooper Hull
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/BlockPowerDown.deb
+Filename: ./debs/BlockPowerDown-1.0.deb
 Size: 3604
 MD5sum: 62908db776364ecc8ddc56bf3238d309
 SHA1: 7e8135980a3f2ba1862fafef01e6d75a01dc06ca
@@ -12,6 +12,24 @@ SHA256: f5903a7c6228b8a9ab50d2c650873e6ed1ac7714fab0252420722f0d1356d8c4
 Section: Tweaks
 Description: Blocks the Power Down menu
 Author: Cooper Hull
+Depiction: https://mac-user669.github.io/repo/depictions/BlockPowerDown/
+Name: BlockPowerDown
+Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/BlockPowerDown.json
+
+Package: com.cooper.blockpowerdown
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Cooper Hull <cooper@cooperhull.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/BlockPowerDown-1.1.deb
+Size: 5148
+MD5sum: 43fc2923d9384f1ae5315cdfa4dce35d
+SHA1: 3bc6f6230aea2a491a2a7bf4016c0cc6ad2bf852
+SHA256: a1e9697e2e6d0c85984365e7a7e88d63de2436ac63d595fcc153e777bb1eef82
+Section: Tweaks
+Description: Blocks the Power Down menu
+Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/BlockPowerDown/
 Name: BlockPowerDown
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/BlockPowerDown.json
