@@ -174,5 +174,6 @@ SHA256: c91507b981fca3f8da7d85862c8594e4f17d455c6400031d14ca00283a2c93f7
 Section: Widgets
 Description: A simple LS widget with a vertical bar
 Author: nnoce
+Depiction: https://mac-user669.github.io/repo/depictions/Split/
 Name: Split
-
+Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Split.json

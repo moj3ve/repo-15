@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
+	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png",
 	"tintColor": "#000000",
 	"tabs": [
 		{
@@ -9,16 +9,7 @@
 
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## LimelightBlack\nLimelight recolored to black. I used the files from [here](https://github.com/ramenrepo/limelight) and recolored with [these](https://github.com/ramenrepo/icon_colorizer) tools. Thanks to Ty for letting me host these!"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Support\nNeed help? Just email me!"
-				},
-				{
-					"title": "Suggest icons here!",
-					"action": "https://forms.gle/JdcGRVRvnyEcabMH6",
-					"class": "DepictionTableButtonView"
+					"markdown": "## Split\nA simple LS widget with a centered vertical bar"
 				},
 				{
 					"itemCornerRadius": 6,
@@ -26,8 +17,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png"
+							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png"
 						}
 					],
 					"ipad": {
@@ -36,8 +27,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png"
+								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -53,7 +44,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.3",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -63,13 +54,8 @@
 				},
 				{
 					"title": "Developer",
-					"text": "mac-user669",
+					"text": "nnoce14",
 					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Email Me",
-					"action": "mailto://cooper@cooperhull.com",
-					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Github",
@@ -91,26 +77,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.3",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Add about 10 icons.",
-					"markdown": "\t\n\u2022 Add Sileo depictions.",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-
-				{
-					"title": "1.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Duplicate some icons.",
+					"markdown": "\t\n\u2022 Initial Release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
