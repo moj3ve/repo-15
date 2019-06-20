@@ -162,6 +162,22 @@ Depiction: https://mac-user669.github.io/repo/depictions/LimeWindows/
 Name: LimeWindows
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimeWindows.json
 
+Package: com.cooper.periodic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cooper Hull <cooper@cooperhull.com>
+Filename: ./debs/Periodic.deb
+Size: 767884
+MD5sum: 7a6e13145b0e05fe39de0488a142a148
+SHA1: 7ab87e6be4156e0067842e43f3e762dc7e7e7648
+SHA256: 6e1d25f9c9c41d477363e49076cf9c8ec7df23530b4a6d274e092aba7d3f2695
+Section: Themes
+Description: Clean icons
+Author: Cooper Hull <cooper@cooperhull.com>
+Depiction: https://mac-user669.github.io/repo/depictions/Periodic/
+Name: Periodic
+Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Periodic.json
+
 Package: com.nnoce.split
 Version: 1.0
 Architecture: iphoneos-arm
@@ -174,6 +190,5 @@ SHA256: c91507b981fca3f8da7d85862c8594e4f17d455c6400031d14ca00283a2c93f7
 Section: Widgets
 Description: A simple LS widget with a vertical bar
 Author: nnoce
-Depiction: https://mac-user669.github.io/repo/depictions/Split/
 Name: Split
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Split.json
+
