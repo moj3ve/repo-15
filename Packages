@@ -165,13 +165,17 @@ Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileod
 Package: com.nnoce.split
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: nnoce <nnoce12@gmail.com>
-Filename: ./debs/com.nnoce.split.deb
-Size: 2296412
-MD5sum: f1059aa07f2fd099430da9f83de5dd5d
-SHA1: e612080adb937178078242eb52bc8b01ec021538
-SHA256: c91507b981fca3f8da7d85862c8594e4f17d455c6400031d14ca00283a2c93f7
+Maintainer: Cooper Hull
+Depends: mobilesubstrate
+Filename: ./debs/Split.deb
+Size: 3134958
+MD5sum: 0d7505c7af9e389e6b92ecb8c99c10f8
+SHA1: c3abc1d5b6516c8639f9f290c687d7aebef80e3a
+SHA256: 00cab2c590e25e85608192160eaa21b116862d1251ae668dabefbf210783599e
 Section: Widgets
 Description: A simple LS widget with a vertical bar
 Author: nnoce
+Depiction: https://mac-user669.github.io/repo/depictions/Split/
 Name: Split
+Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Split.json
+
