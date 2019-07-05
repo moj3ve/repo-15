@@ -13,24 +13,43 @@
   <style>
 
   body {
-    background-color: #ffffff
+    background-color: #EBEAF1
   }
 
-  .btn-outline {
-   border-color: #000000;
-   color: #000000;
+  .btn-outline-gray {
+    border-radius: 1rem;
+  	border: 3px solid #ffffff;
+  	color: #000000;
+  }
+
+  .card {
+    background-color: #ffffff;
+    border: 3px solid #ffffff;
+    border-radius: 1rem;
+    color: #000000
+  }
+
+  img {
+   border-radius: 1rem;
+   display: block;
+   max-width: 100%;
+   height: auto;
+  }
+
+  .badge {
+    background-color: #EBEBF1;
+    color: #272c31
   }
 
   /* Dark mode implementation */
-@media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: dark) {
 
   body {
     color: #ffffff;
-    background-color: #1F2022;
+    background-color: #232224;
   }
 
-  hr {
-    display: block;
+  hr { display: block;
     height: 1px;
     border: 0;
     border-top: 1px
@@ -39,13 +58,23 @@
     padding: 0;
    }
 
-   .btn-outline {
+   .btn-outline-dark {
     border-color: #ffffff;
     color: #ffffff;
    }
 
+   .card {
+     background-color: #232224;
+     border-color: #111;
+     color: #fff
+   }
 
-}
+   .table {
+     color: #ffffff
+    }
+
+  }
+
   </style>
 
 </head>
@@ -57,8 +86,8 @@
 
   <p>Hey! I'm mac-user669, and I currently am customizing themes. This is my official repo!</p>
 
-  <a class="btn btn-outline" href="sileo://source/https://mac-user669.github.io/repo">Add to Sileo</a>
-  <a class="btn btn-outline mx-2" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mac-user669.github.io/repo">Add to Cydia</a>
+  <a class="btn btn-outline-dark" href="sileo://source/https://mac-user669.github.io/repo">Add to Sileo</a>
+  <a class="btn btn-outline-dark mx-2" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mac-user669.github.io/repo">Add to Cydia</a>
 </div>
 
 
@@ -68,10 +97,10 @@
 
   <p>Here are some of my favorite packages.</p>
 
-  <a class="btn btn-outline" href="https://mac-user669.github.io/repo/depictions/LimelightRed/">LimelightRed</a>
-  <a class="btn btn-outline" href="https://mac-user669.github.io/repo/depictions/Split/">Split</a>
-  <a class="btn btn-outline" href="https://mac-user669.github.io/repo/depictions/BlockPowerDown/">BlockPowerDown</a>
-  <a class="btn btn-outline" href="https://mac-user669.github.io/repo/depictions/LimelightBlack/">LimelightBlack</a>
+  <a class="btn btn-outline-dark" href="https://mac-user669.github.io/repo/depictions/LimelightRed/">LimelightRed</a>
+  <a class="btn btn-outline-dark" href="https://mac-user669.github.io/repo/depictions/Split/">Split</a>
+  <a class="btn btn-outline-dark" href="https://mac-user669.github.io/repo/depictions/BlockPowerDown/">BlockPowerDown</a>
+  <a class="btn btn-outline-dark" href="https://mac-user669.github.io/repo/depictions/LimelightBlack/">LimelightBlack</a>
 </div>
 
 </body>
