@@ -49,6 +49,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlack/
 Name: LimelightBlack
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlack.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightBlackIcon.png
 
 Package: com.cooper.limelightblue
 Version: 1.3
@@ -65,6 +66,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlue/
 Name: LimelightBlue
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlue.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightBlueIcon.png
 
 Package: com.cooper.limelightgreen
 Version: 1.3
@@ -81,6 +83,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightGreen/
 Name: LimelightGreen
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightGreen.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightGreenIcon.png
 
 Package: com.cooper.limelightpink
 Version: 1.3
@@ -97,6 +100,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightPink/
 Name: LimelightPink
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPink.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightPinkIcon.png
 
 Package: com.cooper.limelightpurple
 Version: 1.3
@@ -113,6 +117,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightPurple/
 Name: LimelightPurple
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPurple.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightPurpleIcon.png
 
 Package: com.cooper.limelightred
 Version: 1.3
@@ -129,6 +134,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/
 Name: LimelightRed
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightRedIcon.png
 
 Package: com.cooper.limelightyellow
 Version: 1.3
@@ -145,6 +151,7 @@ Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightYellow/
 Name: LimelightYellow
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightYellow.json
+Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightYellowIcon.png
 
 Package: com.cooper.limewindows
 Version: 1.1
@@ -178,4 +185,3 @@ Author: nnoce
 Depiction: https://mac-user669.github.io/repo/depictions/Split/
 Name: Split
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Split.json
-
