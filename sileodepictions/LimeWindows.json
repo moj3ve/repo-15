@@ -67,7 +67,7 @@
 				},
 				{
 					"title": "Email Me",
-					"action": "mailto://cooper@cooperhull.com",
+					"action": "mailto:cooper@cooperhull.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
