@@ -86,7 +86,7 @@
 					"markdown": "\t\n\u2022 Initial Release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},
+				}
 			],
 			"class": "DepictionStackView"
 		}
