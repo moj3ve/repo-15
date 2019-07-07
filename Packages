@@ -131,7 +131,7 @@ SHA256: e1bcbeedf40c9653a53bd821af1955643b944b6719c5ee158e28595ac40ac198
 Section: LimelightColor
 Description: Limelight, but Red!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed.json&name=LimelightRed&dev=mac-user669&section=Themes&icon=https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightRedIcon.png
 Name: LimelightRed
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed.json
 Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightRedIcon.png
