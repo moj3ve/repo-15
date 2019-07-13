@@ -5,10 +5,10 @@ Maintainer: Cooper Hull
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/BlockPowerDown-1.0.deb
-Size: 3604
-MD5sum: 62908db776364ecc8ddc56bf3238d309
-SHA1: 7e8135980a3f2ba1862fafef01e6d75a01dc06ca
-SHA256: f5903a7c6228b8a9ab50d2c650873e6ed1ac7714fab0252420722f0d1356d8c4
+Size: 4844
+MD5sum: 502f7233fa71afe2002d8b10da214e96
+SHA1: 9bacdf9262df631c80f25b342faf2c77d6f81605
+SHA256: 7822426cb04cfc197ba0d52b51b8f9019bb4920b52d1084b354ab9668857ebc3
 Section: Tweaks
 Description: Blocks the Power Down menu
 Author: Cooper Hull
@@ -23,10 +23,10 @@ Maintainer: Cooper Hull <cooper@cooperhull.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/BlockPowerDown-1.1.deb
-Size: 5148
-MD5sum: 43fc2923d9384f1ae5315cdfa4dce35d
-SHA1: 3bc6f6230aea2a491a2a7bf4016c0cc6ad2bf852
-SHA256: a1e9697e2e6d0c85984365e7a7e88d63de2436ac63d595fcc153e777bb1eef82
+Size: 6672
+MD5sum: 737721df4ba4b2d1d5129a082f01cca1
+SHA1: ffa0937357e6077aa89343bd4ffda5f90254b5b8
+SHA256: e2ee0739b1056935a71a69ba67baf06bda53c95c62a2850fd6c14e9bc73edaeb
 Section: Tweaks
 Description: Blocks the Power Down menu
 Author: Cooper Hull <cooper@cooperhull.com>
@@ -39,129 +39,122 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightBlack.deb
-Size: 12617464
-MD5sum: 353c6944602ee91738a9a3d3525aa483
-SHA1: ef157ed7b9f88985c2179936ef3619c14fc45f1a
-SHA256: 71c43ea4dbe842fa615e2e2bf5fc2d9e7cdb475f4bcf527c1eabbbbba9fab9e4
+Size: 14121086
+MD5sum: 4ec8dfbd5841e40328763514ef467113
+SHA1: e349b41072c5d4ab180a8acb21db7814a7d9a9fe
+SHA256: 6082b3eaa8fc2f17c41748cade0a1d7a304086031e3e0da9868dc784ce568e7e
 Section: LimelightColor
 Description: Limelight, but Black!
 Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlack/
 Name: LimelightBlack
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlack.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightBlackIcon.png
 
 Package: com.cooper.limelightblue
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightBlue.deb
-Size: 14053204
-MD5sum: 539c3bd6007350a880181ec09168b684
-SHA1: b094a22319838cf70bbe6b70449a4a98312d0f2c
-SHA256: 0f620316e98a5c5cc81ef54017a46599eb7e938c5be340008e3fca5af3a714d0
+Size: 16127376
+MD5sum: 98f6446089df1a6049964415f123b683
+SHA1: 2768ddaf2cee62ba734e93a8347b5d4f2f144dd4
+SHA256: 742f95ee96af28f157aa8602afd359626fe6d463ca2902f40525b55d3b8064de
 Section: LimelightColor
 Description: Limelight, but Blue!
 Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlue/
 Name: LimelightBlue
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlue.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightBlueIcon.png
 
 Package: com.cooper.limelightgreen
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightGreen.deb
-Size: 13976392
-MD5sum: 5bb33412b95bd99349b846ff0597d52f
-SHA1: e98489c13fb69e2d1532e9b7231368460677843c
-SHA256: d22276d5beb86eff77f6ec053b15fb671087a529e54d8bc9d718c5a2de191f1f
+Size: 16026104
+MD5sum: a2349523884a98f8c795032d3cc5c4c2
+SHA1: 551977ed31c3c7035c0f243723bd5b71a6f47b56
+SHA256: 30c100dec3a321f054434e3e2eb8c2660820c0dcc2e4c32cfd9cd37f6a0470a2
 Section: LimelightColor
 Description: Limelight, but Green!
 Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightGreen/
 Name: LimelightGreen
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightGreen.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightGreenIcon.png
 
 Package: com.cooper.limelightpink
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightPink.deb
-Size: 14101956
-MD5sum: c93e25a7384d33f9e3143e1c101bede8
-SHA1: 290ceaaaeeab446fe97fa7f2d62515b7d050ee8f
-SHA256: ff761e8780259f670a2e72a81c179beaf51b47f7b30ab489dd94dbd1e049ce3f
+Size: 16274536
+MD5sum: 0e29861e6e51abccf95f2a815bd22b7e
+SHA1: 66b30e55a78a3c485418fbaf319d31513490138b
+SHA256: cb848c082c23d222d9868812814c0fbeac377f066dd7f992e6bf0a5c18093c6c
 Section: LimelightColor
 Description: Limelight, but Pink!
 Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightPink/
 Name: LimelightPink
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPink.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightPinkIcon.png
 
 Package: com.cooper.limelightpurple
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightPurple.deb
-Size: 14119768
-MD5sum: 43f5399347639d75c4b4840ffc8f53c2
-SHA1: e447bc9c84045ba4f4adfd61c844546fa8d6ec09
-SHA256: 88b4831fd1b42e7ed855ef8cd43b91f620b864d4c7ae4ddfc424ad03dc7ea60b
+Size: 16288934
+MD5sum: 54671cc55e3a380f5cfaea23e60e3ea0
+SHA1: 978ce11914768e62067678832a07b8596bb6c8e9
+SHA256: 8212f5255b2cd3df98a88ede7e294c4749414020d8f94a59730812dc99070cc6
 Section: LimelightColor
 Description: Limelight, but Purple!
 Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightPurple/
 Name: LimelightPurple
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPurple.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightPurpleIcon.png
 
 Package: com.cooper.limelightred
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightRed.deb
-Size: 14007380
-MD5sum: 1b5f0184505494fe0065aa2139f5e2ce
-SHA1: 489b36d56952e567b7b6a9ae0fd80e90a61a07e7
-SHA256: e1bcbeedf40c9653a53bd821af1955643b944b6719c5ee158e28595ac40ac198
+Size: 16070200
+MD5sum: 5031666e7e298dec8281a20ed75a1cf1
+SHA1: a368a6844e5cd5909786e757754b05e47767d99a
+SHA256: 89bd9dd882dbdad3657620069db391ff2928d86a45db940caae59bbe1c81a774
 Section: LimelightColor
 Description: Limelight, but Red!
 Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/test
+Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/
 Name: LimelightRed
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightRedIcon.png
 
 Package: com.cooper.limelightyellow
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimelightYellow.deb
-Size: 13960036
-MD5sum: 00476f60d7133f088f4c9db3923c6a09
-SHA1: 9f18f9a7d7385cf7ca39b269c6c0668c15471093
-SHA256: 9e9a8d98316fa8761bc8c51c6d26477329b5c50d5bbdbf259776717c0588ced6
+Size: 16030134
+MD5sum: 0f38e08402f20b707a59e9bfc1cbee3e
+SHA1: 893b1438933813d18fe905d4760eea6a463fe856
+SHA256: 8a1bf672cbc6d6873010f801c1244799645f71cd3ee10502aef1a62ecb1fb4d7
 Section: LimelightColor
 Description: Limelight, but Yellow!
 Author: Cooper Hull <cooper@cooperhull.com>
 Depiction: https://mac-user669.github.io/repo/depictions/LimelightYellow/
 Name: LimelightYellow
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightYellow.json
-Icon: https://raw.githubusercontent.com/mac-user669/repo/master/Images/Icons/LimelightYellowIcon.png
 
 Package: com.cooper.limewindows
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Cooper Hull <cooper@cooperhull.com>
 Filename: ./debs/LimeWindows.deb
-Size: 19984104
-MD5sum: 8c4aef9d64bd430ed924092e3593b644
-SHA1: 26be31ce78855e210e28f39c7cf91b6ab2c41101
-SHA256: 20bdbf12d3ab9778982453d4b416196f807c17fa982168228bf0139086c36bf8
+Size: 22376558
+MD5sum: 414ab84f3ba3af3c5d472c1f21f1d6c8
+SHA1: 0004756dce32715af15869b0a45f9df0bb0993c7
+SHA256: bc1bd9b53d655179b490980268a8b38887b19b1b7a46485fb35a7ab98f161783
 Section: Themes
 Description: White glyphs, with a Windows 10 feel
 Author: Cooper Hull <cooper@cooperhull.com>
@@ -175,13 +168,14 @@ Architecture: iphoneos-arm
 Maintainer: Cooper Hull
 Depends: mobilesubstrate
 Filename: ./debs/Split.deb
-Size: 3134958
-MD5sum: 0d7505c7af9e389e6b92ecb8c99c10f8
-SHA1: c3abc1d5b6516c8639f9f290c687d7aebef80e3a
-SHA256: 00cab2c590e25e85608192160eaa21b116862d1251ae668dabefbf210783599e
+Size: 3134422
+MD5sum: cc4b91a975296d9d3c38bedd53eb872d
+SHA1: 2eb1b7ef45efbd78832ffa07406045e587037bcb
+SHA256: 30a1c62e218b1371ce0e1c5d9936ca4a6b67e607798bc03977d3dd948a3ab177
 Section: Widgets
 Description: A simple LS widget with a vertical bar
 Author: nnoce
 Depiction: https://mac-user669.github.io/repo/depictions/Split/
 Name: Split
 Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Split.json
+
