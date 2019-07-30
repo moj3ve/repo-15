@@ -13,7 +13,39 @@
 
   <body>
   <style>
+  body {
+    background-color: transparent;
+  }
 
+  .btn-outline-dark {
+    border-radius: 0rem;
+    color: #000000;
+  }
+
+/* Dark mode implementation */
+  @media (prefers-color-scheme: dark) {
+
+  body {
+    color: #ffffff;
+    background-color: #24262b;
+  }
+
+   .btn-outline-dark {
+    border-color: #ffffff;
+    color: #ffffff;
+   }
+
+   .btn-outline-dark:hover {
+      background-color: inherit;
+    }
+
+   .card {
+     background-color: #404248;
+     border-color: #111;
+     color: #fff
+   }
+
+   }
   </style>
 
 <div class="container mt-3">
@@ -23,7 +55,7 @@
   </div>
 
 <div class="card my-3 shadow-lg">
-  <img class="card-img-top" src="https://github.com/mac-user669/repo/raw/master/Images/BlockPowerDown.png" alt="BlockPowerDown">
+  <img class="card-img-top" src="./BlockPowerDown.png">
 </div>
 
 <div class="card my-3 shadow-lg">
