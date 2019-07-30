@@ -1,0 +1,115 @@
+
+  body {
+    background-color: transparent;
+  }
+
+   .card {
+    border-radius: 0rem;
+  }
+
+  .btn-outline-dark {
+    border-radius: 0rem;
+    color: #000000;
+  }
+
+  .btn-email {
+    border-radius: 0rem;
+    border-color: #000;
+    color: #000
+  }
+
+
+  .btn-reddit {
+    border-radius: 0rem;
+    border-color: #000;
+    color: #000 
+  }
+
+
+  .btn-twitter {
+    border-radius: 0rem;
+    border-color: #000;
+    color: #000 
+  }
+
+  .btn-outline-dark:hover {
+    background-color: #CACACA;
+    border-color: #000000;
+    color: #000000
+  }
+
+
+  .btn-email:hover {
+    background-color: #2483F5;
+    border-color: #2483F5;
+  }
+
+  .btn-twitter:hover {
+    background-color: #2B8EEF;
+    border-color: #2B8EEF;
+  }
+
+  .btn-reddit:hover {
+    background-color: #E95125;
+    border-color: #E95125;
+  }
+
+/* –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Dark mode implementation */
+  @media (prefers-color-scheme: dark) {
+
+  body {
+    color: #FFFFFF;
+    background-color: #24262b;
+  }
+
+   .btn-outline-dark {
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+   }
+
+   .btn-outline-dark:hover {
+     background-color: #141517;
+     border-color: #FFFFFF;
+     color: #FFFFFF
+    }
+
+   .card {
+     background-color: #404248;
+     border-color: #111;
+     color: #FFFFFF
+   }
+
+  .btn-email {
+    border-radius: 0rem;
+    border-color: #FFFFFF;
+    color: #FFFFFF
+  }
+
+
+  .btn-reddit {
+    border-radius: 0rem;
+    border-color: #FFFFFF;
+    color: #FFFFFF 
+  }
+
+
+  .btn-twitter {
+    border-radius: 0rem;
+    border-color: #FFFFFF;
+    color: #FFFFFF 
+  }
+
+  .btn-email:hover {
+    color: #FFFFFF;
+  }
+
+  .btn-twitter:hover {
+    color: #FFFFFF;
+  }
+
+  .btn-reddit:hover {
+    color: #FFFFFF;
+  }
+}
