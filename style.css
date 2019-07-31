@@ -1,4 +1,3 @@
-
   body {
     background-color: transparent;
   }
@@ -7,46 +6,73 @@
     border-radius: 0rem;
   }
 
-  .btn-outline-dark {
+  .btn-outline {
     border-radius: 0rem;
     color: #000000;
+    background-color: #transparent;
+    border-color: #000000
+  }
+
+  .btn-outline:hover {
+    background-color: #CACACA;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-sileo {
+    border-radius: 0rem;
+    color: #000000;
+    background-color: #transparent;
+    border-color: #000000
+  }
+
+  .btn-sileo:hover {
+    background-color: #4FCBBC;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-cydia {
+    border-radius: 0rem;
+    color: #000000;
+    background-color: #transparent;
+    border-color: #000000
+  }
+
+  .btn-cydia:hover {
+    background-color: #AA694F;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-zebra {
+    border-radius: 0rem;
+    color: #000000;
+    background-color: #transparent;
+    border-color: #000000
+  }
+
+  .btn-zebra:hover {
+    background-color: #DAE2E8;
+    border-color: transparent;
+    color: #000000
   }
 
   .btn-email {
     border-radius: 0rem;
-    border-color: #000;
+    border-color: #000000;
     color: #000
   }
-
-
-  .btn-reddit {
-    border-radius: 0rem;
-    border-color: #000;
-    color: #000 
-  }
-
-
-  .btn-twitter {
-    border-radius: 0rem;
-    border-color: #000;
-    color: #000 
-  }
-
-  .btn-outline-dark:hover {
-    background-color: #CACACA;
-    border-color: #000000;
-    color: #000000
-  }
-
 
   .btn-email:hover {
     background-color: #2483F5;
     border-color: #2483F5;
   }
 
-  .btn-twitter:hover {
-    background-color: #2B8EEF;
-    border-color: #2B8EEF;
+  .btn-reddit {
+    border-radius: 0rem;
+    border-color: #000000;
+    color: #000 
   }
 
   .btn-reddit:hover {
@@ -54,7 +80,18 @@
     border-color: #E95125;
   }
 
-/* –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+  .btn-twitter {
+    border-radius: 0rem;
+    border-color: #000000;
+    color: #000 
+  }
+
+  .btn-twitter:hover {
+    background-color: #2B8EEF;
+    border-color: #2B8EEF;
+  }
+
+/* –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 
 /* Dark mode implementation */
   @media (prefers-color-scheme: dark) {
@@ -64,52 +101,104 @@
     background-color: #24262b;
   }
 
-   .btn-outline-dark {
-    border-color: #FFFFFF;
-    color: #FFFFFF;
-   }
-
-   .btn-outline-dark:hover {
-     background-color: #141517;
-     border-color: #FFFFFF;
-     color: #FFFFFF
-    }
-
-   .card {
+  .card {
      background-color: #404248;
-     border-color: #111;
+     border-color: transparent;
      color: #FFFFFF
    }
 
-  .btn-email {
-    border-radius: 0rem;
-    border-color: #FFFFFF;
+  .btn-outline {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-outline:hover {
+    background-color: gray;
     color: #FFFFFF
   }
 
-
-  .btn-reddit {
-    border-radius: 0rem;
-    border-color: #FFFFFF;
-    color: #FFFFFF 
+  .btn-sileo {
+    color: #FFFFFF;
+    background-color: #transparent;
+    border-color: #FFFFFF
   }
 
+  .btn-sileo:hover {
+    border-color: transparent;
+    color: #FFFFFF
+  }
 
-  .btn-twitter {
-    border-radius: 0rem;
+  .btn-cydia {
+    color: #FFFFFF;
+    background-color: #transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-cydia:hover {
+    border-color: transparent;
+    color: #FFFFFF
+  }
+
+  .btn-zebra {
+    color: #FFFFFF;
+    background-color: #transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-zebra:hover {
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-lr {
+    color: #FFFFFF;
+    background-color: #transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-lr:hover {
+    border-color: #BF0000;
+    background-color: gray;
+    color: #BF0000
+  }
+
+  .btn-lb {
+    color: #FFFFFF;
+    background-color: #transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-lb:hover {
+    background-color: gray;
+    border-color: #000000;
+    color: #000000
+  }
+
+  .btn-email {
+    color: #FFFFFF;
     border-color: #FFFFFF;
-    color: #FFFFFF 
   }
 
   .btn-email:hover {
     color: #FFFFFF;
   }
 
-  .btn-twitter:hover {
+  .btn-reddit {    
+    border-color: #FFFFFF;
     color: #FFFFFF;
   }
 
   .btn-reddit:hover {
+    color: #FFFFFF;
+  }
+
+  .btn-twitter {
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  }
+
+  .btn-twitter:hover {
     color: #FFFFFF;
   }
 }
