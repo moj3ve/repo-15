@@ -151,30 +151,6 @@
     color: #000000
   }
 
-  .btn-lr {
-    color: #FFFFFF;
-    background-color: #transparent;
-    border-color: #FFFFFF
-  }
-
-  .btn-lr:hover {
-    border-color: #BF0000;
-    background-color: gray;
-    color: #BF0000
-  }
-
-  .btn-lb {
-    color: #FFFFFF;
-    background-color: #transparent;
-    border-color: #FFFFFF
-  }
-
-  .btn-lb:hover {
-    background-color: gray;
-    border-color: #000000;
-    color: #000000
-  }
-
   .btn-email {
     color: #FFFFFF;
     border-color: #FFFFFF;
