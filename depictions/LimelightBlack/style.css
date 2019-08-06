@@ -3,11 +3,11 @@
   }
 
    .card {
-    border-radius: 0rem;
+    border-radius: 0.5rem;
   }
 
   .btn-outline {
-    border-radius: 0rem;
+    border-radius: 0.5rem;
     color: #000000;
     background-color: #transparent;
     border-color: #000000
@@ -20,21 +20,21 @@
   }
 
   .btn-email {
-    border-radius: 0rem;
+    border-radius: 0.5rem;
     border-color: #000000;
     color: #000
   }
 
 
   .btn-reddit {
-    border-radius: 0rem;
+    border-radius: 0.5rem;
     border-color: #000000;
     color: #000 
   }
 
 
   .btn-twitter {
-    border-radius: 0rem;
+    border-radius: 0.5rem;
     border-color: #000000;
     color: #000 
   }
@@ -71,7 +71,6 @@
    }
 
   .btn-outline {
-    border-radius: 0rem;
     color: #FFFFFF;
     background-color: transparent;
     border-color: #FFFFFF
