@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://YOUR_SERVER_URL/YOUR-IPA-FILE.ipa</string>
+                    <string>http://raw.githubusercontent.com/mac-user669/repo/master/unc0ver.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.yourCompany.productName</string>
+                <string>science.xnu.undecimus</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>YOUR APP NAME</string>
+                <string>Unc0ver</string>
             </dict>
         </dict>
     </array>
