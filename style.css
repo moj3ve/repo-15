@@ -9,7 +9,7 @@
   .btn-outline {
     border-radius: 0.5rem;
     color: #000000;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #000000
   }
 
@@ -22,7 +22,7 @@
   .btn-sileo {
     border-radius: 0.5rem;
     color: #000000;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #000000
   }
 
@@ -35,7 +35,7 @@
   .btn-cydia {
     border-radius: 0.5rem;
     color: #000000;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #000000
   }
 
@@ -48,7 +48,7 @@
   .btn-zebra {
     border-radius: 0.5rem;
     color: #000000;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #000000
   }
 
@@ -91,6 +91,19 @@
     border-color: #2B8EEF;
   }
 
+  .btn-paypal {
+    border-radius: 0.5rem;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000
+  }
+
+  .btn-paypal:hover {
+    background-color: #123290;
+    border-color: transparent;
+    color: #000000
+  }
+
 /* –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 
 /* Dark mode implementation */
@@ -120,7 +133,7 @@
 
   .btn-sileo {
     color: #FFFFFF;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #FFFFFF
   }
 
@@ -131,7 +144,7 @@
 
   .btn-cydia {
     color: #FFFFFF;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #FFFFFF
   }
 
@@ -142,7 +155,7 @@
 
   .btn-zebra {
     color: #FFFFFF;
-    background-color: #transparent;
+    background-color: transparent;
     border-color: #FFFFFF
   }
 
@@ -177,4 +190,16 @@
   .btn-twitter:hover {
     color: #FFFFFF;
   }
+
+  .btn-paypal {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-paypal:hover {
+    border-color: transparent;
+    color: #FFFFFF
+  }
+
 }
