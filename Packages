@@ -11,9 +11,9 @@ SHA256: 257154382940f1a502dd305b92b6ec1eb2342531e13148e97639c7772676540b
 Section: Tweaks
 Description: Blocks the Power Down menu
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.blockpowerdown/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.blockpowerdown/
 Name: BlockPowerDown
-Sileodepiction: http://raspberrypi.local/sileodepictions/BlockPowerDown.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/BlockPowerDown.json
 
 Package: com.cooper.blockpowerdown
 Version: 1.1
@@ -28,9 +28,9 @@ SHA256: 0855fb7d1c107f4b52554f3163c001096d324092866448e0f4d5381c951be563
 Section: Tweaks
 Description: Blocks the Power Down menu
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.blockpowerdown/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.blockpowerdown/
 Name: BlockPowerDown
-Sileodepiction: http://raspberrypi.local/sileodepictions/BlockPowerDown.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/BlockPowerDown.json
 
 Package: com.cooper.limelightblack
 Version: 1.3
@@ -44,9 +44,9 @@ SHA256: 4c7ad1562e5293ce27adff65a4527b66292d78713d903300aa89b1905340a29a
 Section: Themes
 Description: Limelight, but Black!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightblack/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightblack/
 Name: LimelightBlack
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightBlack.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightBlack.json
 
 Package: com.cooper.limelightblue
 Version: 1.3
@@ -60,9 +60,9 @@ SHA256: 5770fc4dbe93b9e45f0f82e7bd0ea7c012838b2e7d63dfa54d7a5838ea05bb3b
 Section: Themes
 Description: Limelight, but Blue!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightblue/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightblue/
 Name: LimelightBlue
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightBlue.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightBlue.json
 
 Package: com.cooper.limelightgreen
 Version: 1.3
@@ -76,9 +76,9 @@ SHA256: 4f5c1e14c1a791102f2dd7e798a7009ce7a5a9b0dc58db99f58de90d568e39af
 Section: Themes
 Description: Limelight, but Green!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightgreen/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightgreen/
 Name: LimelightGreen
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightGreen.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightGreen.json
 
 Package: com.cooper.limelightpink
 Version: 1.3
@@ -92,9 +92,9 @@ SHA256: 5b193804995cf864b92e5caed0a6083a85fe3bb61f4b3d6a02c73daebfe21476
 Section: Themes
 Description: Limelight, but Pink!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightpink/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightpink/
 Name: LimelightPink
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightPink.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightPink.json
 
 Package: com.cooper.limelightpurple
 Version: 1.3
@@ -108,9 +108,9 @@ SHA256: 29c228737937d24d3b48b39852a72cbfeb48d8100731578d686794ea834bf6f5
 Section: Themes
 Description: Limelight, but Purple!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightpurple/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightpurple/
 Name: LimelightPurple
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightPurple.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightPurple.json
 
 Package: com.cooper.limelightred
 Version: 1.3
@@ -124,9 +124,9 @@ SHA256: decde0389a82cd4185a1b24a86ada8446288adf49a4603eebfd6d3932cd18b61
 Section: Themes
 Description: Limelight, but Red!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightred/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightred/
 Name: LimelightRed
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightRed.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightRed.json
 
 Package: com.cooper.limelightyellow
 Version: 1.3
@@ -140,9 +140,9 @@ SHA256: f37690a53f85ff9d05276332c0329da448bc349a46842eaa204b4cec41b452de
 Section: Themes
 Description: Limelight, but Yellow!
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightyellow/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limelightyellow/
 Name: LimelightYellow
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightYellow.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimelightYellow.json
 
 Package: com.cooper.limewindows
 Version: 1.1
@@ -156,9 +156,9 @@ SHA256: 0034c331e6004687a973a92ba5e1d33cc62d953f3bb87e323339921b069bcfc5
 Section: Themes
 Description: White glyphs, with a Windows 10 feel
 Author: mac-user669 <cooper@cooperhull.com>
-Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limewindows/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.cooper.limewindows/
 Name: LimeWindows
-Sileodepiction: http://raspberrypi.local/sileodepictions/LimeWindows.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/LimeWindows.json
 
 Package: com.nnoce.split
 Version: 1.0
@@ -173,7 +173,7 @@ SHA256: 1b6a4efd6105169a0bb1e114bb8acdaec3fa3e26dfc58737f0f598f4dafe1866
 Section: Widgets
 Description: A simple LS widget with a vertical bar
 Author: nnoce
-Depiction: http://raspberrypi.local/depictions/?p=com.nnoce.split/
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.nnoce.split/
 Name: Split
-Sileodepiction: http://raspberrypi.local/sileodepictions/Split.json
+Sileodepiction: https://mac-user669.github.io/repo/sileodepictions/Split.json
 
