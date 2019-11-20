@@ -1,0 +1,46 @@
+<package>
+	<id>com.cooper.limelightyellow</id>
+	<name>LimelightYellow</name>
+	<version>1.3</version>
+
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+
+	<dependencies>
+		<package>Snowboard or Anemone</package>
+	</dependencies>
+
+	<shortDescription>Limelight recolored to yellow</shortDescription>
+
+	<descriptionlist>
+		<description>Limelight recolored to yellow. I used the files from Ty's GitHub and recolored with some tools he made. Thanks to him for letting me host these!</description>
+	</descriptionlist>
+
+	<screenshots>
+		<screenshot>
+			<image>LimelightYellow.png</image>
+		</screenshot>		
+	</screenshots>
+
+	<changelog>
+		<change>Add about 10 icons</change>
+	</changelog>
+
+	<links>
+		<link>
+			<name>Email Me</name>
+			<url>mailto:cooper@cooperhull.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</links>
+	<links>
+		<link>
+			<name>Icon Requests</name>
+			<url>https://github.com/mac-user669/Issues/issues/new/choose</url>
+			<iconclass>fa fa-plus-square</iconclass>
+		</link>
+	</links>
+</package>

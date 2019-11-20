@@ -1,181 +1,179 @@
 Package: com.cooper.blockpowerdown
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull
-Installed-Size: 104
+Maintainer: mac-user669 <cooper@cooperhull.com>
 Depends: mobilesubstrate
-Filename: ./debs/BlockPowerDown-1.0.deb
-Size: 4844
-MD5sum: 502f7233fa71afe2002d8b10da214e96
-SHA1: 9bacdf9262df631c80f25b342faf2c77d6f81605
-SHA256: 7822426cb04cfc197ba0d52b51b8f9019bb4920b52d1084b354ab9668857ebc3
+Filename: ./debs/com.cooper.blockpowerdown_1.0.deb
+Size: 3960
+MD5sum: 69e3cfa21a6d10b8d7ce281b3dbf5c04
+SHA1: 3eb991123a353bf31c605571a6c475ca308eb917
+SHA256: 257154382940f1a502dd305b92b6ec1eb2342531e13148e97639c7772676540b
 Section: Tweaks
 Description: Blocks the Power Down menu
-Author: Cooper Hull
-Depiction: https://mac-user669.github.io/repo/depictions/BlockPowerDown/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.blockpowerdown/
 Name: BlockPowerDown
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/BlockPowerDown.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/BlockPowerDown.json
 
 Package: com.cooper.blockpowerdown
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Installed-Size: 152
+Maintainer: mac-user669 <cooper@cooperhull.com>
 Depends: mobilesubstrate
-Filename: ./debs/BlockPowerDown-1.1.deb
-Size: 6672
-MD5sum: 737721df4ba4b2d1d5129a082f01cca1
-SHA1: ffa0937357e6077aa89343bd4ffda5f90254b5b8
-SHA256: e2ee0739b1056935a71a69ba67baf06bda53c95c62a2850fd6c14e9bc73edaeb
+Filename: ./debs/com.cooper.blockpowerdown_1.1.deb
+Size: 4160
+MD5sum: fe23bad953f44845a180bdcf01b37aab
+SHA1: 6983a5b538607c4fd8093070b6efa8d30d9d36c9
+SHA256: 0855fb7d1c107f4b52554f3163c001096d324092866448e0f4d5381c951be563
 Section: Tweaks
 Description: Blocks the Power Down menu
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/BlockPowerDown/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.blockpowerdown/
 Name: BlockPowerDown
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/BlockPowerDown.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/BlockPowerDown.json
 
 Package: com.cooper.limelightblack
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightBlack.deb
-Size: 14121086
-MD5sum: 4ec8dfbd5841e40328763514ef467113
-SHA1: e349b41072c5d4ab180a8acb21db7814a7d9a9fe
-SHA256: 6082b3eaa8fc2f17c41748cade0a1d7a304086031e3e0da9868dc784ce568e7e
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightblack_1.3.deb
+Size: 12617488
+MD5sum: ef78d3391c6c7e3bbfd44a3fe50618be
+SHA1: 849f4c93c125f439dc84cc26b6e032732eb29de9
+SHA256: 4c7ad1562e5293ce27adff65a4527b66292d78713d903300aa89b1905340a29a
+Section: Themes
 Description: Limelight, but Black!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlack/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightblack/
 Name: LimelightBlack
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlack.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightBlack.json
 
 Package: com.cooper.limelightblue
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightBlue.deb
-Size: 16127376
-MD5sum: 98f6446089df1a6049964415f123b683
-SHA1: 2768ddaf2cee62ba734e93a8347b5d4f2f144dd4
-SHA256: 742f95ee96af28f157aa8602afd359626fe6d463ca2902f40525b55d3b8064de
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightblue_1.3.deb
+Size: 14053700
+MD5sum: 4e999b491585cda7808b96283e96edd8
+SHA1: 2c16e94847796a7442eddf32e32075c59958f37a
+SHA256: 5770fc4dbe93b9e45f0f82e7bd0ea7c012838b2e7d63dfa54d7a5838ea05bb3b
+Section: Themes
 Description: Limelight, but Blue!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightBlue/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightblue/
 Name: LimelightBlue
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightBlue.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightBlue.json
 
 Package: com.cooper.limelightgreen
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightGreen.deb
-Size: 16026104
-MD5sum: a2349523884a98f8c795032d3cc5c4c2
-SHA1: 551977ed31c3c7035c0f243723bd5b71a6f47b56
-SHA256: 30c100dec3a321f054434e3e2eb8c2660820c0dcc2e4c32cfd9cd37f6a0470a2
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightgreen_1.3.deb
+Size: 8831260
+MD5sum: 6fc546bf3569a6e270d5fa9252d31095
+SHA1: c5356fcea45a46a5e6115462be0dceb3553c4e1b
+SHA256: 4f5c1e14c1a791102f2dd7e798a7009ce7a5a9b0dc58db99f58de90d568e39af
+Section: Themes
 Description: Limelight, but Green!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightGreen/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightgreen/
 Name: LimelightGreen
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightGreen.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightGreen.json
 
 Package: com.cooper.limelightpink
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightPink.deb
-Size: 16274536
-MD5sum: 0e29861e6e51abccf95f2a815bd22b7e
-SHA1: 66b30e55a78a3c485418fbaf319d31513490138b
-SHA256: cb848c082c23d222d9868812814c0fbeac377f066dd7f992e6bf0a5c18093c6c
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightpink_1.3.deb
+Size: 8572900
+MD5sum: ff3f4921135226733f165c8091c33d77
+SHA1: 46cab307a2ab757167a49e237a3f3920cdad38d9
+SHA256: 5b193804995cf864b92e5caed0a6083a85fe3bb61f4b3d6a02c73daebfe21476
+Section: Themes
 Description: Limelight, but Pink!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightPink/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightpink/
 Name: LimelightPink
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPink.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightPink.json
 
 Package: com.cooper.limelightpurple
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightPurple.deb
-Size: 16288934
-MD5sum: 54671cc55e3a380f5cfaea23e60e3ea0
-SHA1: 978ce11914768e62067678832a07b8596bb6c8e9
-SHA256: 8212f5255b2cd3df98a88ede7e294c4749414020d8f94a59730812dc99070cc6
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightpurple_1.3.deb
+Size: 14120120
+MD5sum: e49bb7aa509585674a810d9aca64643c
+SHA1: 7e2a98b16359b61b039df8c03069736bbfbffc29
+SHA256: 29c228737937d24d3b48b39852a72cbfeb48d8100731578d686794ea834bf6f5
+Section: Themes
 Description: Limelight, but Purple!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightPurple/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightpurple/
 Name: LimelightPurple
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightPurple.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightPurple.json
 
 Package: com.cooper.limelightred
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightRed.deb
-Size: 16070200
-MD5sum: 5031666e7e298dec8281a20ed75a1cf1
-SHA1: a368a6844e5cd5909786e757754b05e47767d99a
-SHA256: 89bd9dd882dbdad3657620069db391ff2928d86a45db940caae59bbe1c81a774
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightred_1.3.deb
+Size: 8851060
+MD5sum: 253a428bef93d5ab22b4ab67d45be6a3
+SHA1: 6904f9b9b3140b63e6e026dbf0f0de4c39f7733c
+SHA256: decde0389a82cd4185a1b24a86ada8446288adf49a4603eebfd6d3932cd18b61
+Section: Themes
 Description: Limelight, but Red!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightRed/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightred/
 Name: LimelightRed
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightRed.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightRed.json
 
 Package: com.cooper.limelightyellow
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimelightYellow.deb
-Size: 16030134
-MD5sum: 0f38e08402f20b707a59e9bfc1cbee3e
-SHA1: 893b1438933813d18fe905d4760eea6a463fe856
-SHA256: 8a1bf672cbc6d6873010f801c1244799645f71cd3ee10502aef1a62ecb1fb4d7
-Section: LimelightColor
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightyellow_1.3.deb
+Size: 13960172
+MD5sum: da7da2e8703149dc437985a69b8c9aa0
+SHA1: 1cde4968915efaafa1f3caa6414f0168e5000827
+SHA256: f37690a53f85ff9d05276332c0329da448bc349a46842eaa204b4cec41b452de
+Section: Themes
 Description: Limelight, but Yellow!
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimelightYellow/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limelightyellow/
 Name: LimelightYellow
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimelightYellow.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimelightYellow.json
 
 Package: com.cooper.limewindows
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull <cooper@cooperhull.com>
-Filename: ./debs/LimeWindows.deb
-Size: 22376558
-MD5sum: 414ab84f3ba3af3c5d472c1f21f1d6c8
-SHA1: 0004756dce32715af15869b0a45f9df0bb0993c7
-SHA256: bc1bd9b53d655179b490980268a8b38887b19b1b7a46485fb35a7ab98f161783
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limewindows_1.1.deb
+Size: 19983980
+MD5sum: 8f7ef433bdbda35380f808660eb3e753
+SHA1: d10c7cacfab9de442b0a9f808f76c7448b3f3340
+SHA256: 0034c331e6004687a973a92ba5e1d33cc62d953f3bb87e323339921b069bcfc5
 Section: Themes
 Description: White glyphs, with a Windows 10 feel
-Author: Cooper Hull <cooper@cooperhull.com>
-Depiction: https://mac-user669.github.io/repo/depictions/LimeWindows/
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: http://raspberrypi.local/depictions/?p=com.cooper.limewindows/
 Name: LimeWindows
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/LimeWindows.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/LimeWindows.json
 
 Package: com.nnoce.split
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Cooper Hull
+Maintainer: mac-user669 <cooper@cooperhull.com>
 Depends: mobilesubstrate
-Filename: ./debs/Split.deb
-Size: 3134422
-MD5sum: cc4b91a975296d9d3c38bedd53eb872d
-SHA1: 2eb1b7ef45efbd78832ffa07406045e587037bcb
-SHA256: 30a1c62e218b1371ce0e1c5d9936ca4a6b67e607798bc03977d3dd948a3ab177
+Filename: ./debs/com.nnoce.split.deb
+Size: 357796
+MD5sum: c3f43834623c4b101d6389b03298d092
+SHA1: c50a77fa6ad4d0329bd5c3d0cd74c44a1d5b2347
+SHA256: 1b6a4efd6105169a0bb1e114bb8acdaec3fa3e26dfc58737f0f598f4dafe1866
 Section: Widgets
 Description: A simple LS widget with a vertical bar
 Author: nnoce
-Depiction: https://mac-user669.github.io/repo/depictions/Split/
+Depiction: http://raspberrypi.local/depictions/?p=com.nnoce.split/
 Name: Split
-Sileodepiction: https://raw.githubusercontent.com/mac-user669/repo/master/sileodepictions/Split.json
+Sileodepiction: http://raspberrypi.local/sileodepictions/Split.json
 

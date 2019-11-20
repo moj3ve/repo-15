@@ -3,80 +3,143 @@
 <head>
   <title>mac-user669's repo</title>
   <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>  
-  </head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-  <body>
+  <style>
+  	
+	/* Dark mode implementation */
+  @media (prefers-color-scheme: dark) {
 
-<div class="container mt-4">
-  <div class="card shadow-lg">
-    <h4 class="card-title text-center pt-2 font-weight-light">mac-user669's repo</h4>
+  	body {
+    color: #FFFFFF;
+    background-color: #24262b;
+	}
 
-  </div>
+	.jumbotron {
+		border-color: #000000;
+		background: #000000;
+		border-style:solid;
+		border-width: 1px;
+	}
 
-<div class="card my-3 shadow-lg">
-  <div class="card-body  text-center font-weight-light">
-    <p class="card-text">Hey! I'm mac-user669, and I currently am customizing themes. This is my official repo!</p>
+	.list-group-item {
+		background: #000000;
+	}
 
-    <a class="btn btn-sileo shadow-lg font-weight-light" href="sileo://source/https://mac-user669.github.io/repo">Add to Sileo</a>
+	.well {
+		border-color: #000000;
+		background-color: #000000;
+	}
 
-    <a class="btn btn-cydia mx-2 shadow-lg font-weight-light" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mac-user669.github.io/repo">Add to Cydia</a>
+	.panel {
+		border-color: #000000;
+		background-color: #000000;
+	}
 
-    <a class="btn btn-zebra shadow-lg font-weight-light" href="zbra://sources/add/https://mac-user669.github.io/repo">Add to Zebra</a>
-    
-  </div>
+	.panel > .panel-heading {
+		background-color: #000000;
+		color: #ffffff;
+		border-color: #24262b;
+	}
+
+	.btn {
+		background-color: #24262b;
+		border-color: #000000;
+		color: #2e6da4
+	}
+
+
+    .page-header {
+    	border-color: #000000;
+    }
+
+    .panel-heading {
+    	background-color: #00ff00;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #24262b;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        padding: 12px 16px;
+        z-index: 1;
+        border-radius: 1rem;
+    }
+    .dropdown-content {
+    	padding: 10px
+    }
+
+    .btn-dropdown {
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .btn-dropdown:hover {
+    	background-color: white
+    }
+  }
+  </style>
+
+</head>
+<body>
+
+<div class="container">
+	<h1 style="font-size:5vw"><img style="width:75px;height:75px;" src="CydiaIcon.png"> mac-user669</h1>
 </div>
 
-</div>
+<div class="container">
+<div class="well">
+		<p><span class="text-primary"><b>mac-user669</span></b> is a developer and theme designer.</p>
 
-<div class="container mt-5">
-  <div class="card shadow-lg">
-    <h4 class="card-title text-center pt-2 font-weight-light">Featured Packages</h4>
+<!-- 			<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://raspberrypi.local">Add to Cydia</a>
 
-  </div>
+		<a class="btn btn-sm btn-default" href="sileo://source/http://raspberrypi.local">Add to Sileo</a>
 
-<div class="card my-3 shadow-lg">
-  <div class="card-body  text-center font-weight-light">
-    <p class="card-text">Here are some of my favorite packages.</p>
+		<a class="btn btn-sm btn-default" href="zbra://sources/add/http://raspberrypi.local">Add to Zebra</a>
+-->
 
-  <a class="btn btn-outline mx-1 my-1 shadow-lg font-weight-light" href="https://mac-user669.github.io/repo/depictions/LimelightRed/">LimelightRed</a>
+<div class="dropdown">
+	<a class="btn btn-default" href="">Add Repo</a>
+		<div class="dropdown-content">
 
-  <a class="btn btn-outline mx-1 my-1 shadow-lg font-weight-light" href="https://mac-user669.github.io/repo/depictions/Split/">Split</a>
+			<a class="btn btn-dropdown" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://raspberrypi.local">Add to Cydia</a>
 
-  <a class="btn btn-outline mx-1 my-1 shadow-lg font-weight-light" href="https://mac-user669.github.io/repo/depictions/BlockPowerDown/">BlockPowerDown</a>
+			<a class="btn btn-dropdown" href="sileo://source/http://raspberrypi.local">Add to Sileo</a>
 
-  <a class="btn btn-outline mx-1 my-1 shadow-lg font-weight-light" href="https://mac-user669.github.io/repo/depictions/LimelightBlack/">LimelightBlack</a>
-  </div>
-</div>
-
-  <div class="card mt-5 shadow-lg">
-    <h4 class="card-title text-center pt-2 font-weight-light">Links</h4>
-
-  </div>
-
-<div class="card my-3 shadow-lg">
-  <div class="card-body  text-center font-weight-light">
-    <p class="card-text"></p>
-
-  <a class="btn btn-email mx-1 my-1 shadow-lg font-weight-light" href="mailto:cooper@cooperhull.com">Email Me</a>
-
-  <a class="btn btn-reddit mx-1 my-1 shadow-lg font-weight-light" href="https://reddit.com/u/mac-user669">Reddit</a>
-
-  <a class="btn btn-twitter mx-1 my-1 shadow-lg font-weight-light" href="https://twitter.com/mac_user669">Twitter</a>
-
-  <a class="btn btn-paypal mx-1 my-1 shadow-lg font-weight-light" href="https://www.paypal.me/macuser669">Donate</a>
-
-  </div>
+			<a class="btn btn-dropdown" href="zbra://sources/add/https://mac-user669.github.io/repo">Add to Zebra</a>
+	</div>
 </div>
 
 
+	</div>
+</div>
 
 
+<div class="container">
+  <h2 id="wells" class="page-header">Featured Packages</h2>
+</div>
+
+<div class="container">
+	<div class="panel panel-default">
+	  <div class="panel-heading"  style="font-size:20px">LimelightRed</div>
+	  <div class="panel-body">
+Limelight recolored to red<br /><br />
+		<a class="btn btn-default" href="depictions/?p=com.cooper.limelightred">More info</a>
+	  </div>
+	</div>
+
+	<div class="panel panel-default">
+	  <div class="panel-heading" style="font-size:20px">Split</div>
+	  <div class="panel-body">
+		A simple LS widget with a centered vertical bar.<br /><br />
+		<a class="btn btn-default" href="depictions/?p=com.nnoce.split">More info</a>
+	  </div>
+	</div>
 </div>
 
 </body>

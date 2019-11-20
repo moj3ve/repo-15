@@ -1,8 +1,8 @@
-Origin: mac-user669's Repo 
-Label: mac-user669's Repo 
+Origin: raspberrypi.local
+Label: raspberrypi.local
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: mac-user669's Repo
+Description: A place for mac-user669's free tweaks and themes!
