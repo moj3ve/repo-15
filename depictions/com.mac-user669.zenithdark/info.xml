@@ -1,0 +1,51 @@
+<package>
+	<id>com.mac-user669.zenithdark</id>
+	<name>ZenithDark</name>
+	<version>0.0.1</version>
+
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.muirey03.zenith</package>
+	</dependencies>
+
+	<shortDescription>Dark Tabs For Zenith</shortDescription>
+
+	<descriptionlist>
+		<description>Recolors the pull tabs on Muirey03's Zenith to a dark blur!</description>
+
+		<description>I had the idea, and @iKilledAppl3 reached out to me about helping me make this. He ended up writing basically all of the code, so shoutout to him!</description>
+
+		<description>I plan on adding more features in the future, including custom colors and disabling when in light mode.</description>
+	</descriptionlist>
+
+	<screenshots>
+		<screenshot>
+			<image>Screenshot.jpeg</image>
+		</screenshot>		
+	</screenshots>
+
+	<changelog>
+		<change>Initial release!</change>
+	</changelog>
+
+	<links>
+		<link>
+			<name>Email Me</name>
+			<url>mailto:cooper@cooperhull.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</links>
+	<links>
+		<link>
+			<name>Icon Requests</name>
+			<url>https://github.com/mac-user669/Issues/issues/new/choose</url>
+			<iconclass>fa fa-plus-square</iconclass>
+		</link>
+	</links>
+</package>
