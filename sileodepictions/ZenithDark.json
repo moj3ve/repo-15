@@ -60,7 +60,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.0.1",
+					"text": "0.0.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -105,6 +105,17 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Initial release!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "0.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial support for switching dark/light mode! (Requires a respring)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

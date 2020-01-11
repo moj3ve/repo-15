@@ -5,25 +5,31 @@
   "banners":
    [
      {
-       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.mac-user669.zenithdark/screenshots/Screenshot.png",
+       "title":"ZenithDark",
+       "package":"com.mac-user669.zenithdark",
+       "hideShadow":false
+      },
+      {
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.cooper.limelightred/screenshots/LimelightRed.png",
        "title":"LimelightRed",
        "package":"com.cooper.limelightred",
        "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/BlockPowerDown.png",
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.cooper.blockpowerdown/screenshots/BlockPowerDown.png",
         "title":"BlockPowerDown",
         "package":"com.cooper.blockpowerdown",
         "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/Split.png",
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.nnoce.split/screenshots/Split.png",
         "title":"Split",
         "package":"com.nnoce.split",
         "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimeWindows.png",
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.cooper.limewindows/screenshots/LimeWindows.png",
         "title":"LimeWindows",
         "package":"com.cooper.limewindows",
         "hideShadow":false
