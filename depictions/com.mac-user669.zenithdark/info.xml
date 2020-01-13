@@ -23,8 +23,12 @@
 
 		<description>I plan on adding more features in the future, including custom colors.</description>
 
-		<description>This tweak is open source! Check it out here:</description>
-					<url>https://github.com/mac-user669/ZenithDark</url>
+		<description>This tweak is open source! Check it out</description>
+		<link>
+			<name>here</name>
+			<url>https://github.com/mac-user669/ZenithDark</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
 
 
 	</descriptionlist>
