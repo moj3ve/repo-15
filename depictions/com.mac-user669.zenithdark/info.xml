@@ -1,7 +1,7 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>0.0.2</version>
+	<version>1.0</version>
 
 	<compatibility>
 		<firmware>
@@ -23,7 +23,9 @@
 
 		<description>I plan on adding more features in the future, including custom colors.</description>
 
-		<description>This version has initial integration with the stock Dark/Light modes, but it requires a respring to change the tab's colors.</description>
+		<description>This tweak is open source! Check it out here:</description>
+					<url>https://github.com/mac-user669/ZenithDark</url>
+
 
 	</descriptionlist>
 
@@ -34,7 +36,7 @@
 	</screenshots>
 
 	<changelog>
-		<change>Initial Dark/Light mode switching! (Requires a respring)</change>
+		<change>Now changes based on whether the system is in Light or Dark mode</change>
 	</changelog>
 
 	<links>

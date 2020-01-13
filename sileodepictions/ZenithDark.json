@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.mac-user669.zenithdark/screenshots/Screenshot.png",
-	"tintColor": "#000000",
+//	"tintColor": "#000000",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -21,7 +21,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I plan on adding more features in the future, including custom colors and disabling when in light mode."
+					"markdown": "I plan on adding more features in the future, including custom colors."
 				},
 				{
 					"class": "DepictionMarkdownView",
@@ -33,8 +33,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.png"
+							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg",
+							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg"
 						}
 					],
 					"ipad": {
@@ -43,8 +43,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.png"
+								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg",
+								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -60,7 +60,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.0.2",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,14 +97,20 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+
 				{
-					"title": "0.0.1",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial release!",
+					"markdown": "\t\n\u2022 Full Release!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 Now changes based on whether the system is in Light or Dark mode",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -116,6 +122,17 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Initial support for switching dark/light mode! (Requires a respring)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "0.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release!",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
