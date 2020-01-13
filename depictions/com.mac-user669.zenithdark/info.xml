@@ -40,14 +40,14 @@
 		<link>
 			<name>Source Code</name>
 			<url>https://github.com/mac-user669/ZenithDark</url>
-			<iconclass>fa fa-envelope</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</links>
 	<links>
 		<link>
 			<name>Email Me</name>
 			<url>mailto:cooper@cooperhull.com</url>
-			<iconclass>fa fa-github</iconclass>
+			<iconclass>fa fa-envelope</iconclass>
 		</link>
 	</links>
 	<links>
