@@ -1,7 +1,7 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>1.0</version>
+	<version>1.1</version>
 
 	<compatibility>
 		<firmware>
@@ -33,7 +33,7 @@
 	</screenshots>
 
 	<changelog>
-		<change>Now changes based on whether the system is in Light or Dark mode</change>
+		<change>Added Preferences, including an Enable/Disable switch! Thanks to Skitty for helping us out</change>
 	</changelog>
 
 	<links>

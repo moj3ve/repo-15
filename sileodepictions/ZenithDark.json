@@ -60,7 +60,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,6 +97,23 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added Preferences, including an Enable/Disable switch!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022  Thanks to Skitty for helping us out",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 
 				{
 					"title": "1.0",

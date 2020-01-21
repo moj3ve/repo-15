@@ -1,12 +1,20 @@
 <changelog>
 	<changes>
-		<version>0.0.1</version>
-		<change>Initial release!</change>
+		<version>1.1</version>
+		<change>Added Preferences, including an Enable/Disable switch!</change>
+		<change>Thanks to Skitty for helping us out</change>
 	</changes>
 	<changes>
 		<version>1.0</version>
 		<change>Full release!</change>
 		<change>Now changes based on whether the system is in Light or Dark mode</change>
 	</changes>
-
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial release!</change>
+	</changes>
 </changelog>
+
+
+
+Added Preferences! Thanks to Skitty for helping us out
