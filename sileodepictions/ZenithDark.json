@@ -60,7 +60,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1",
+					"text": "1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,8 +97,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
-
 				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 iOS 12 support",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022  Tweaked colors",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				{
 					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -114,7 +128,6 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
-
 				{
 					"title": "1.0",
 					"useBoldText": true,
