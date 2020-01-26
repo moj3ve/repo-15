@@ -60,7 +60,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.2",
+					"text": "1.3",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -98,6 +98,17 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "1.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Use Cephei for Prefs UI/UX",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -112,7 +123,8 @@
 					"markdown": "\t\n\u2022  Tweaked colors",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},				{
+				},
+				{
 					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,

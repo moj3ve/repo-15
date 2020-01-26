@@ -1,7 +1,7 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>1.2</version>
+	<version>1.3</version>
 
 	<compatibility>
 		<firmware>
@@ -33,8 +33,7 @@
 	</screenshots>
 
 	<changelog>
-		<change>iOS 12 support</change>
-		<change>Tweaked colors</change>
+		<change>Use Cephei for Prefs UI/UX</change>
 	</changelog>
 
 	<links>
