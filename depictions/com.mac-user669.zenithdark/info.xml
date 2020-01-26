@@ -12,6 +12,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 		<package>com.muirey03.zenith</package>
+		<package>ws.hbang.common</package>
 	</dependencies>
 
 	<shortDescription>Dark Tabs For Zenith</shortDescription>
