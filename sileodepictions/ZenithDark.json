@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
-	"tintColor": "#bf0000",
+	"tintColor": "#D0A400",
 	"tabs": [
 		{
 			"tabname": "Details",
