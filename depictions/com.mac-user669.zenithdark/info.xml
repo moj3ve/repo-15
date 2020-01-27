@@ -1,7 +1,7 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>1.3</version>
+	<version>1.4</version>
 
 	<compatibility>
 		<firmware>
@@ -22,7 +22,7 @@
 
 		<description>I had the idea, and @iKilledAppl3 reached out to me about helping me make this. He ended up writing basically all of the code, so shoutout to him!</description>
 
-		<description>I plan on adding more features in the future, including custom colors.</description>
+		<description>I'm working on adding more features, including custom colors.</description>
 
 
 	</descriptionlist>
@@ -34,7 +34,7 @@
 	</screenshots>
 
 	<changelog>
-		<change>Use Cephei for Prefs UI/UX</change>
+		<change>New OLED and OLED Dark modes!</change>
 	</changelog>
 
 	<links>

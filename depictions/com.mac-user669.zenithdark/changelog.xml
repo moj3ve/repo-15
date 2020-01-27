@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.4</version>
+		<change>New OLED and OLED Dark modes!</change>
+	</changes>
+	<changes>
 		<version>1.3</version>
 		<change>Use Cephei for Prefs UI/UX</change>
 	</changes>
@@ -23,3 +27,5 @@
 		<change>Initial release!</change>
 	</changes>
 </changelog>
+
+
