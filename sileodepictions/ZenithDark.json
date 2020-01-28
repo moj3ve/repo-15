@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "http://raspberrypi.local/Banners/ZenithDarkBanner.png",
+	"headerImage": "https://mac-user669.github.io/repo/Banners/ZenithDarkBanner.png",
 	"tintColor": "#D0A400",
 	"tabs": [
 		{
@@ -30,28 +30,28 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
-							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
-							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
-							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
-							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
-							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
 						},
 					],
 					"ipad": {
@@ -60,28 +60,28 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
-								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
 							},
 							{
 								"accessibilityText": "Showcase",
-								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
-								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
 							},
 							{
 								"accessibilityText": "Showcase",
-								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
-								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
 							},
 							{
 								"accessibilityText": "Showcase",
-								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
-								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
 							},
 							{
 								"accessibilityText": "Showcase",
-								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
-								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
