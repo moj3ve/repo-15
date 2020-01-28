@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
+	"headerImage": "http://raspberrypi.local/Banners/ZenithDarkBanner.png",
 	"tintColor": "#D0A400",
 	"tabs": [
 		{
@@ -9,43 +9,50 @@
 
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Recolors the pull tabs on Muirey03's Zenith to a dark blur!"
+					"markdown": "## Dark Tabs for Zenith\nZenithDark recolors the pull tabs on Muirey03's Zenith to a dark blur!"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I had the idea, and @iKilledAppl3 reached out to me about helping me make this. He ended up writing basically all of the code, so shoutout to him!"
+					"markdown": "## OLED Mode, Too!\nNew in 1.4, Zenith dark has an OLED mode! This makes the tabs *almost* 100% black. It's perfect for those who love dark setups!"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "I'm working on adding more features, including custom colors."
+					"markdown": "## Open Source\nOpen source tweaks are a great way for newer developers (Like me!) to learn how tweaks work. All of my free tweaks are and will be open source!"
 				},
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## OLED mode? Oh yeah!"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "New in version 1.4: OLED Adaptive and OLED Dark modes! Perfect for your dark setups!"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Open Source"
-				},
-				{
-					"title": "Check it out here!",
+					"title": "Check out the source code here!",
 					"action": "https://github.com/mac-user669/ZenithDark",
 					"class": "DepictionTableButtonView"
 				},
-
 				{
 					"itemCornerRadius": 6,
 					"itemSize": "{320, 275.41333333333336}",
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg",
-							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg"
-						}
+							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
+							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
+							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
+							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
+							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
+							"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
+						},
 					],
 					"ipad": {
 						"itemCornerRadius": 9,
@@ -53,9 +60,29 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg",
-								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/depictions/com.mac-user669.zenithdark/screenshots/Screenshot.jpeg"
-							}
+								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
+								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
+								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
+								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
+								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
+								"fullSizeURL": "http://raspberrypi.local/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
+							},
 						],
 						"class": "DepictionScreenshotView"
 					},
@@ -80,7 +107,7 @@
 				},
 				{
 					"title": "Developer",
-					"text": "mac-user669 and iKilledAppl3",
+					"text": "mac-user669",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -108,16 +135,28 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "1.4.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 New depiction links",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.4",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 New OLED and OLED Dark modes!",
+					"markdown": "\t\n\u2022 New OLED and OLED Dark modes",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+
 				{
 					"title": "1.3",
 					"useBoldText": true,
@@ -128,7 +167,19 @@
 					"markdown": "\t\n\u2022 Use Cephei for Prefs UI/UX",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 iOS 12 Support",
+					"markdown": "\t\n\u2022 Tweaked Colors",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 
 				{
 					"title": "1.2",
@@ -137,11 +188,11 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 iOS 12 support",
-					"markdown": "\t\n\u2022 Tweaked colors",
+					"markdown": "\t\n\u2022 Duplicate some icons",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
+
 				{
 					"title": "1.1",
 					"useBoldText": true,
@@ -149,11 +200,11 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added Preferences, including an Enable/Disable switch!",
+					"markdown": "\t\n\u2022 Added Preferences, including an enable/disable switch",
 					"markdown": "\t\n\u2022 Thanks to Skitty for helping us out",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
 				{
 					"title": "1.0",
 					"useBoldText": true,
@@ -161,11 +212,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Full release!",
-					"markdown": "\t\n\u2022 Now changes based on whether the system is in Light or Dark mode",
+					"markdown": "\t\n\u2022 Full Release",
+					"markdown": "\t\n\u2022 now changes based on whether the system is in Light or Dark mode",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
+
 				{
 					"title": "0.1",
 					"useBoldText": true,
@@ -173,10 +225,10 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial release!",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
 			],
 			"class": "DepictionStackView"
 		}

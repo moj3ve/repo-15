@@ -1,7 +1,7 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>1.4</version>
+	<version>1.4.1</version>
 
 	<compatibility>
 		<firmware>
@@ -29,12 +29,24 @@
 
 	<screenshots>
 		<screenshot>
-			<image>Screenshot.jpeg</image>
-		</screenshot>		
+			<image>DarkDark.png</image>
+		</screenshot>
+		<screenshot>
+			<image>DarkOLED.png</image>
+		</screenshot>	
+		<screenshot>
+			<image>LightDark.png</image>
+		</screenshot>
+		<screenshot>
+			<image>LightOLED.png</image>
+		</screenshot>
+		<screenshot>
+			<image>Preferences.png</image>
+		</screenshot>
 	</screenshots>
 
 	<changelog>
-		<change>New OLED and OLED Dark modes!</change>
+		<change>New depiction links</change>
 	</changelog>
 
 	<links>
@@ -49,13 +61,6 @@
 			<name>Email Me</name>
 			<url>mailto:cooper@cooperhull.com</url>
 			<iconclass>fa fa-envelope</iconclass>
-		</link>
-	</links>
-	<links>
-		<link>
-			<name>Icon Requests</name>
-			<url>https://github.com/mac-user669/Issues/issues/new/choose</url>
-			<iconclass>fa fa-plus-square</iconclass>
 		</link>
 	</links>
 </package>
