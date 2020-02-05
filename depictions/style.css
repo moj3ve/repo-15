@@ -28,3 +28,53 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-left: 5px;
     margin-right: 10px;
 }
+
+    /* Dark mode implementation */
+  @media (prefers-color-scheme: dark) {
+
+    body {
+    color: #FFFFFF;
+    background-color: #1E1E1E;
+    }
+
+    .text-primary {
+        color: #ff0008
+    }
+
+    .jumbotron {
+        border-color: #000000;
+        background: #000000;
+        border-style:solid;
+        border-width: 1px;
+    }
+
+    .list-group-item {
+        background: #000000;
+    }
+
+    .well {
+        border-color: #404040;
+        background-color: #404040;
+    }
+
+    .panel {
+        border-color: #404040;
+        background-color: #404040;
+    }
+
+    .panel > .panel-heading {
+        background-color: #2C2D2D;
+        color: #ffffff;
+        border-color: #2C2D2D;
+    }
+
+    .btn {
+        background-color: #24262b;
+        border-color: #000000;
+        color: #ff0008
+    }
+    .btn:hover {
+        border-color: #ff0008;
+        background-color: #24262b;
+        color: #ffffff
+    }
