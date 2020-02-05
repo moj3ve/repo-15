@@ -97,7 +97,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.4.1",
+					"text": "1.5",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -134,6 +134,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add libSparkColourPicker!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.4.1",
 					"useBoldText": true,

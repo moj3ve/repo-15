@@ -1,7 +1,7 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>1.4.1</version>
+	<version>1.5</version>
 
 	<compatibility>
 		<firmware>
@@ -10,9 +10,9 @@
 	</compatibility>
 
 	<dependencies>
-		<package>mobilesubstrate</package>
-		<package>com.muirey03.zenith</package>
-		<package>ws.hbang.common</package>
+		<package>Zenith</package>
+		<package>Cephei</package>
+		<package>libSparkColourPicker</package>
 	</dependencies>
 
 	<shortDescription>Dark Tabs For Zenith</shortDescription>
@@ -22,31 +22,28 @@
 
 		<description>I had the idea, and @iKilledAppl3 reached out to me about helping me make this. He ended up writing basically all of the code, so shoutout to him!</description>
 
-		<description>I'm working on adding more features, including custom colors.</description>
+		<description>I'm working on adding more features, and if you have any requests, let me know!</description>
 
 
 	</descriptionlist>
 
 	<screenshots>
 		<screenshot>
-			<image>DarkDark.png</image>
+			<image>Dark13.png</image>
 		</screenshot>
 		<screenshot>
-			<image>DarkOLED.png</image>
+			<image>DarkBlue.png</image>
 		</screenshot>	
 		<screenshot>
-			<image>LightDark.png</image>
+			<image>LightGreen.png</image>
 		</screenshot>
 		<screenshot>
-			<image>LightOLED.png</image>
-		</screenshot>
-		<screenshot>
-			<image>Preferences.png</image>
+			<image>Prefs.png</image>
 		</screenshot>
 	</screenshots>
 
 	<changelog>
-		<change>New depiction links</change>
+		<change>Add libSparkColourPicker!</change>
 	</changelog>
 
 	<links>

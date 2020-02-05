@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.5</version>
+		<change>Add libSparkColourPicker!</change>
+	</changes>
+	<changes>
 		<version>1.4.1</version>
 		<change>New depiction links</change>
 	</changes>
