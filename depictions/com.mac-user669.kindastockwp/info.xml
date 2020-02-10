@@ -1,0 +1,48 @@
+<package>
+	<id>com.mac-user669.kindastockwp</id>
+	<name>KindaStockWP</name>
+	<version>1.0</version>
+
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+
+	<dependencies>
+		<package>WallpaperLoader</package>
+	</dependencies>
+
+	<shortDescription>KindaStock wallpapers for WallpaperLoader! Wallpapers created by ConorTheDev</shortDescription>
+
+	<descriptionlist>
+		<description>KindaStock wallpapers for WallpaperLoader!</description>
+
+		<description>The wallpapers were created by ConorTheDev, and he let me host this.</description>
+
+	</descriptionlist>
+
+	<screenshots>
+		<screenshot>
+			<image>Dark.png</image>
+		</screenshot>
+		<screenshot>
+			<image>Light.png</image>
+		</screenshot>	
+		<screenshot>
+			<image>Thumbnail.png</image>
+		</screenshot>
+	</screenshots>
+
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+
+	<links>
+		<link>
+			<name>Email Me</name>
+			<url>mailto:cooper@cooperhull.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</links>
+</package>
