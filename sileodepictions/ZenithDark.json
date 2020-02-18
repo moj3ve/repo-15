@@ -30,23 +30,18 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
-							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png"
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
-							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png"
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
-							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
-						},
-						{
-							"accessibilityText": "Showcase",
-							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
-							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png"
 						},
 					],
 					"ipad": {
@@ -55,28 +50,18 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png",
-								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkDark.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png"
 							},
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png",
-								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/DarkOLED.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png"
 							},
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png",
-								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightDark.png"
-							},
-							{
-								"accessibilityText": "Showcase",
-								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png",
-								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/LightOLED.png"
-							},
-							{
-								"accessibilityText": "Showcase",
-								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png",
-								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Preferences.png"
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
@@ -92,7 +77,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.6",
+					"text": "1.7",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -129,6 +114,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 iOS 12 support!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.6",
 					"useBoldText": true,

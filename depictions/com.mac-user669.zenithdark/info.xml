@@ -1,18 +1,18 @@
 <package>
 	<id>com.mac-user669.zenithdark</id>
 	<name>ZenithDark</name>
-	<version>1.6</version>
+	<version>1.7</version>
 
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
 
 	<dependencies>
 		<package>Zenith</package>
 		<package>Cephei</package>
-		<package>libColorPicker</package>
+		<package>libCSColorPicker</package>
 	</dependencies>
 
 	<shortDescription>Dark Tabs For Zenith</shortDescription>
@@ -29,18 +29,19 @@
 
 	<screenshots>
 		<screenshot>
-			<image>Dark13.png</image>
+			<image>Dark.png</image>
 		</screenshot>
 		<screenshot>
-			<image>DarkBlue.png</image>
+			<image>Light.png</image>
 		</screenshot>	
 		<screenshot>
-			<image>LightGreen.png</image>
+			<image>Prefs.png</image>
 		</screenshot>
 	</screenshots>
 
 	<changelog>
-		<change>Switch to libColourPicker!</change>
+		<change>iOS 12 support!</change>
+		<change>Note: Custom Light Mode color won't affect anything on iOS 12</change>
 	</changelog>
 
 	<links>
