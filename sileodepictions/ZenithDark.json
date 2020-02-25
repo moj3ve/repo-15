@@ -13,7 +13,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## OLED Mode, Too!\nNew in 1.4, Zenith dark has an OLED mode! This makes the tabs *almost* 100% black. It's perfect for those who love dark setups!"
+					"markdown": "## Custom Colors!\nZenithDark has support for custom colors, using libCSColorPicker. This allows you to have the tabs whatever color you want!"
 				},
 				{
 					"class": "DepictionMarkdownView",
